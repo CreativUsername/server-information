@@ -57,6 +57,7 @@ This is a list of mods currently installed on the server. None of these need to 
 
 - AntiXray
 - BanHammer
+- Better Than Mending
 - Carpet
 - Carpet Extra
 - Command Aliases
@@ -65,21 +66,16 @@ This is a list of mods currently installed on the server. None of these need to 
 - Essential Commands
 - Floodgate
 - Geyser
+- Grind Enchantments
+- InfiniteVillagerTrading
 - Inventory Sorting
 - JamLib
 - Lithium
 - LuckPerms
+- Perfect Accuracy
 - Phosphor
 - RightClickHarvest
 - TabTPS
-
-Mods currently being considered:
-
-- Perfect Accuracy
-- Better Than Mending
-- Grind Enchantments
-- InfiniteVillagerTrading
-- Universal Graves
 
 ## Permissions
 
