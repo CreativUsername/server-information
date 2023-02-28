@@ -8,6 +8,7 @@ Asterisks can be replaced by anything. For example, `essentialcommands.home.*` i
 
 ### true
 
+- `banme`
 - `essentialcommands.afk`
 - `essentialcommands.back`
 - `essentialcommands.gametime`
@@ -22,6 +23,9 @@ Asterisks can be replaced by anything. For example, `essentialcommands.home.*` i
 - `essentialcommands.tpahere`
 - `essentialcommands.tpdeny`
 - `essentialcommands.warp.*`
+- `kickme`
+- `killme`
+- `muteme`
 - `tabtps.defaultdisplay`
 - `tabtps.ping`
 - `tabtps.ping.others`
