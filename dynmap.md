@@ -1,3 +1,5 @@
+Refer to the Discord for the link to the dynmap. You may get a warning because it uses HTTP and not HTTPS.
+
 ## Placing markers on Dynmap
 
 You can make signs in-game that will appear on dynmap as markers. The format for the sign is:
