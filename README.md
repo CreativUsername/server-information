@@ -41,4 +41,4 @@ Because the server was transferred between versions, chunks generated before the
 
 ## Configs
 
-[List of changed/added configs](config.md)
+[List of changed/added configs](configs.md)
