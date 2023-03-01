@@ -1,4 +1,4 @@
-This is a list of mods currently installed on the server. None of these need to be downloaded for you to join the server or for the mods to work as intended.
+This is a list of fabric mods currently installed on the server. None of these need to be downloaded for you to join the server or for the mods to work as intended.
 
 0 = unsupported, 1 = optional, 2 = required, ? = unknown
 
