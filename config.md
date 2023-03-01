@@ -80,6 +80,15 @@ redirectTo: nickname
 | `nickname_prefix` | `{"color"\:"red","text"\:"~"}` | `""` |
 | `use_permissions_api` | `false` | `true` |
 
+## /grindenchantments.json
+
+| config | default | changed |
+| --- | --- | --- |
+| `disenchant_to_book/cost_function/factor` | `0.3` | `0` |
+| `disenchant_to_book/cost_function/offset` | `8.0` | `0` |
+| `move_enchantments/cost_function/factor` | `0.5` | `0` |
+| `move_enchantments/cost_function/offset` | `0.5` | `0` |
+
 ## /rightclickharvest.json
 
 | config | default | changed |
