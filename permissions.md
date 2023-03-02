@@ -9,6 +9,7 @@ Asterisks can be replaced by anything. For example, `essentialcommands.home.*` i
 ### true
 
 - `banme`
+- `dynmap.marker.sign`
 - `essentialcommands.afk`
 - `essentialcommands.back`
 - `essentialcommands.gametime`
@@ -33,8 +34,14 @@ Asterisks can be replaced by anything. For example, `essentialcommands.home.*` i
 
 ### false
 
+- `banhammer`
 - `banhammer.*`
+- `commandaliases
 - `commandaliases.*`
+- `dynmap`
+- `dynmap.marker`
+- `essential`
+- `essentialcommands`
 - `essentialcommands.admin.lasPos`
 - `essentialcommands.anvil`
 - `essentialcommands.bypass.teleport_delay`
@@ -51,9 +58,13 @@ Asterisks can be replaced by anything. For example, `essentialcommands.home.*` i
 - `essentialcommands.top`
 - `essentialcommands.wastebin`
 - `essentialcommands.workbench`
+- `floodgate`
 - `floodgate.*`
+- `geyser`
 - `geyser.*`
+- `luckperms`
 - `luckperms.*`
+- `tabtps`
 
 ## user: `<server owner, redacted for github>`
 
