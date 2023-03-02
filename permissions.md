@@ -70,12 +70,28 @@ Asterisks can be replaced by anything. For example, `essentialcommands.home.*` i
 
 ### true
 
+- `banhammer`
 - `banhammer.*`
+- `commandaliases`
 - `commandaliases.*`
+- `dynmap`
+- `dynmap.*`
+- `dynmap.marker`
+- `essentialcommands`
 - `essentialcommands.*`
+- `essentialcommands.bypass.teleport_delay`
+- `essentialcommands.config.reload`
+- `essentialcommands.home_tp_others`
+- `essentialcommands.nickname.others`
+- `essentialcommands.spawn.set`
+- `essentialcommands.spawn.tp`
+- `floodgate`
 - `floodgate.*`
+- `geyser`
 - `geyser.*`
 - `luckperms.*`
+- `tabtps`
 - `tabtps.*`
 - `group.default`
+- `luckperms`
 - `meta.lp-editor-key.<redacted>`
