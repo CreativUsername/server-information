@@ -27,7 +27,7 @@ This is a list of fabric mods currently installed on the server. None of these n
 | [RightClickHarvest](https://modrinth.com/mod/rightclickharvest) | 3.1.0 | 2 | 1 |
 | [TabTPS](https://modrinth.com/plugin/tabtps) | 1.3.16 | ? | ? |
 
-Mods currently being considered
+Mods currently being considered:
 
 | mod | server | client | comments |
 | --- | --- | --- | --- |
