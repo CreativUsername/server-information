@@ -36,7 +36,7 @@ Asterisks can be replaced by anything. For example, `essentialcommands.home.*` i
 
 - `banhammer`
 - `banhammer.*`
-- `commandaliases
+- `commandaliases`
 - `commandaliases.*`
 - `dynmap`
 - `dynmap.marker`
