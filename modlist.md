@@ -38,3 +38,4 @@ Mods currently being considered:
 | [New Infinity Fix](https://modrinth.com/mod/new-infinity-fix) | 2 | 1 | |
 | [Day Dream](https://modrinth.com/mod/day-dream) | 2 | 1 | |
 | [Fast Portals](https://modrinth.com/mod/fast-portals) | 2 | 0 | |
+| [Bypass Anvil Restriction](https://www.curseforge.com/minecraft/mc-mods/bypass-anvil-restriction) | 2 | 1 | |
