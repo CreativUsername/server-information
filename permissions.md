@@ -8,7 +8,6 @@ Asterisks can be replaced by anything. For example, `essentialcommands.home.*` i
 
 ### true
 
-- `banme`
 - `dynmap.marker.sign`
 - `essentialcommands.afk`
 - `essentialcommands.back`
@@ -26,7 +25,6 @@ Asterisks can be replaced by anything. For example, `essentialcommands.home.*` i
 - `essentialcommands.warp.*`
 - `kickme`
 - `killme`
-- `muteme`
 - `tabtps.defaultdisplay`
 - `tabtps.ping`
 - `tabtps.ping.others`
@@ -36,6 +34,7 @@ Asterisks can be replaced by anything. For example, `essentialcommands.home.*` i
 
 - `banhammer`
 - `banhammer.*`
+- `banme`
 - `commandaliases`
 - `commandaliases.*`
 - `dynmap`
@@ -64,6 +63,7 @@ Asterisks can be replaced by anything. For example, `essentialcommands.home.*` i
 - `geyser.*`
 - `luckperms`
 - `luckperms.*`
+- `muteme`
 - `tabtps`
 
 ## user: `<server owner, redacted for github>`
@@ -72,6 +72,7 @@ Asterisks can be replaced by anything. For example, `essentialcommands.home.*` i
 
 - `banhammer`
 - `banhammer.*`
+- `banme`
 - `commandaliases`
 - `commandaliases.*`
 - `dynmap`
@@ -89,9 +90,10 @@ Asterisks can be replaced by anything. For example, `essentialcommands.home.*` i
 - `floodgate.*`
 - `geyser`
 - `geyser.*`
+- `luckperms`
 - `luckperms.*`
+- `group.default`
+- `meta.lp-editor-key.<redacted>`
+- `muteme`
 - `tabtps`
 - `tabtps.*`
-- `group.default`
-- `luckperms`
-- `meta.lp-editor-key.<redacted>`
