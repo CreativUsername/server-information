@@ -2,7 +2,7 @@
 | --- | --- |
 | `/afk` | If not afk, running `/afk` will send the chat message `PlayerName is now afk` and your name will appear as `[AFK] PlayerName` <br> If afk, running `\afk`, moving, or interacting will send the chat message `PlaerName is no longer afk` and your name will return to `PlayerName`. | 
 | `/back` | After using a teleport command such as `/home`, `/spawn`, `/tpa`, or `/warp`, this will teleport you back to your last position. |
-| `/banme` | Bans the person who ran the command for 1 hour. |
+| `/banme` | Bans the person who ran the command for 1 hour. TEMPORARILY DISABLED DUE TO A BUG! |
 | `/distance` | Outputs the distance between two coordinates. |
 | `/gametime` | Outputs the current game time. |
 | `/help` | Outputs a list of commands. |
@@ -17,7 +17,7 @@
 | `/memory` | Outputs information about the server's current RAM usage. |
 | `/msg` | Sends a private message to another player on the server. |
 | `/mspt` | Outputs various information about server performance, including: <br> - Ticks per second (TPS) <br> - Milliseconds per tick (MSPT) <br> - CPU usage <br> - RAM usage |
-| `/muteme` | Mutes the person who ran the command for 1 hour. |
+| `/muteme` | Mutes the person who ran the command for 1 hour. TEMPORARILY DISABLED DUE TO A BUG! |
 | `/nick` | Can be used to set/clear a nickname, or to view the actual username of a nicknamed player. |
 | `/nickname` | Can be used to set/clear a nickname, or to view the actual username of a nicknamed player. |
 | `/perimeterinfo` | This is something about mob spawning. Honestly, I have no idea how to use the information that it outputs. Good luck. |
