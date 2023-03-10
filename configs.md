@@ -89,6 +89,15 @@ redirectTo: nickname
 | `move_enchantments/cost_function/factor` | `0.5` | `0` |
 | `move_enchantments/cost_function/offset` | `0.5` | `0` |
 
+## /improved-signs.json5
+
+| config | default | changed |
+| --- | --- | --- |
+| `disableSignEditOnPlace` | `true` | `false` |
+| `enableSignRetain` | `true` | `false` |
+| `enableSignCopy` | `true` | `false` |
+| `enableInvisibleFrames` | `true` | `false` |
+
 ## /rightclickharvest.json
 
 | config | default | changed |
