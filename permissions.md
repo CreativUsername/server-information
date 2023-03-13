@@ -8,7 +8,9 @@ Asterisks can be replaced by anything. For example, `essentialcommands.home.*` i
 
 ### true
 
+- `dynmap.hide.self`
 - `dynmap.marker.sign`
+- `dynmap.show.self`
 - `essentialcommands.afk`
 - `essentialcommands.back`
 - `essentialcommands.gametime`
@@ -37,8 +39,12 @@ Asterisks can be replaced by anything. For example, `essentialcommands.home.*` i
 - `banme`
 - `commandaliases`
 - `commandaliases.*`
+- `dynmap.hide`
+- `dynmap.hide.others`
 - `dynmap`
 - `dynmap.marker`
+- `dynmap.show`
+- `dynmap.showothers`
 - `essential`
 - `essentialcommands`
 - `essentialcommands.admin.lasPos`
@@ -77,7 +83,9 @@ Asterisks can be replaced by anything. For example, `essentialcommands.home.*` i
 - `commandaliases.*`
 - `dynmap`
 - `dynmap.*`
+- `dynmap.hide`
 - `dynmap.marker`
+- `dynmap.show`
 - `essentialcommands`
 - `essentialcommands.*`
 - `essentialcommands.bypass.teleport_delay`
