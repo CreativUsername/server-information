@@ -1,4 +1,4 @@
-To join the server, you must use either Minecraft Java Edition 1.19.3 or Minecraft Bedrock Edition 1.19.20 - 1.19.62. No mods are required to join the server, but if you are going to install any mods, they should be client-only.
+To join the server, you must use either Minecraft Java Edition 1.19.3 or Minecraft Bedrock Edition 1.19.20 - 1.19.63. No mods are required to join the server, but if you are going to install any mods, they should be client-only.
 
 The Server Name does not matter. You can enter whatever you like in that field. <br>
 Refer to the Discord for the server address.
