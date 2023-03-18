@@ -12,23 +12,23 @@ Client support is mostly taken from the mod's modrinth page (if it has one) and 
 | [Carpet](https://modrinth.com/mod/carpet) | 1.4.96 | 1 | &check; |
 | [Carpet Extra](https://github.com/gnembon/carpet-extra) | 1.4.91 | ? | &check; |
 | [Cloth Config API](https://modrinth.com/mod/cloth-config/) | 9.0.94 | 1 | &check; |
-| [Collective](https://modrinth.com/mod/collective) | 6.48 | 1 | &check; |
+| [Collective](https://modrinth.com/mod/collective) | 6.53 | 1 | &check; |
 | [Command Aliases](https://modrinth.com/mod/commandaliases) | 1.0.0 | 1 | &cross; |
 | [Couplings](https://modrinth.com/mod/couplings) | 1.9.2 | 1 | &cross; |
 | [Day Dream](https://modrinth.com/mod/day-dream) | 1.0.6 | 0 | &cross; |
 | [Dynmap](https://www.curseforge.com/minecraft/mc-mods/dynmapforge) | 3.5 Beta 2 | 0 | &cross; |
-| [Essential Commands](https://modrinth.com/mod/essential-commands) | 0.31.1 | 1 | &cross; |
-| [Fabric API](https://modrinth.com/mod/fabric-api) | 0.73.2 | 1 | &check; |
-| [Fabric Language Kotlin](https://modrinth.com/mod/fabric-language-kotlin/) | 1.9.1 + Kotlin 1.8.10 | 1 | &check; |
-| [Floodgate](https://github.com/GeyserMC/Floodgate-Fabric) | Build #92 (?) | 0 | &check; |
-| [Geyser](https://geysermc.org/) | Build #1305 (?) | 0 | &check; |
+| [Essential Commands](https://modrinth.com/mod/essential-commands) | 0.32.0 | 1 | &check; |
+| [Fabric API](https://modrinth.com/mod/fabric-api) | 0.76.0 | 1 | &check; |
+| [Fabric Language Kotlin](https://modrinth.com/mod/fabric-language-kotlin/) | 1.9.2 + Kotlin 1.8.10 | 1 | &check; |
+| [Floodgate](https://github.com/GeyserMC/Floodgate-Fabric) | Build #93 | 0 | &check; |
+| [Geyser](https://geysermc.org/) | Build #1321 | 0 | &check; |
 | [Grind Enchantments](https://modrinth.com/mod/grind-enchantments) |  3.0.0 Beta 1 | 1 | &cross; |
 | [Improved Signs](https://modrinth.com/mod/improved-signs) | 1.2.1 | 1 | &cross; |
 | [InfiniteVillagerTrading](https://modrinth.com/mod/infinitevillagertrading) |  0.68.1 | 0 | &cross; |
 | [Inventory Sorting](https://modrinth.com/mod/inventory-sorting) | 1.8.10 | 1 | &check; |
 | [JamLib](https://modrinth.com/mod/jamlib) | 0.6.0 | 1 | &check; |
-| [Lithium](https://modrinth.com/mod/lithium) | 0.10.4 | 1 | &check; |
-| [LuckPerms](https://luckperms.net/) | 5.4.62 | 0 | &check; |
+| [Lithium](https://modrinth.com/mod/lithium) | 0.11.1 | 1 | &check; |
+| [LuckPerms](https://luckperms.net/) | 5.4.66 | 0 | &check; |
 | [New Infinity Fix](https://modrinth.com/mod/new-infinity-fix) | 1.0.1 | 1 | &cross; |
 | [No Shield Delay](https://modrinth.com/mod/no-shield-delay) | 1.0.0 | 0 | &check; |
 | [Perfect Accuracy](https://modrinth.com/mod/perfect-accuracy) | 1.2 | 1 | &check; |
