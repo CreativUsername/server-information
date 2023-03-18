@@ -7,8 +7,8 @@ Client support is mostly taken from the mod's modrinth page (if it has one) and 
 | --- | --- | --- | --- |
 | [AntiXray](https://modrinth.com/mod/anti-xray) | 1.3.0 | 0 | &check; |
 | [Anvil Restoration](https://modrinth.com/mod/anvil-restoration) | 2.0 | 1 | &check; |
-| [Bypass Anvil Restriction](https://www.curseforge.com/minecraft/mc-mods/bypass-anvil-restriction) | 1.0.2 | 1 | &cross; |
 | [Better Than Mending](https://modrinth.com/mod/better-than-mending) | 1.3.0 | 1 | &check; |
+| [Bypass Anvil Restriction](https://www.curseforge.com/minecraft/mc-mods/bypass-anvil-restriction) | 1.0.2 | 1 | &cross; |
 | [Carpet](https://modrinth.com/mod/carpet) | 1.4.96 | 1 | &check; |
 | [Carpet Extra](https://github.com/gnembon/carpet-extra) | 1.4.91 | ? | &check; |
 | [Cloth Config API](https://modrinth.com/mod/cloth-config/) | 9.0.94 | 1 | &check; |
@@ -26,6 +26,7 @@ Client support is mostly taken from the mod's modrinth page (if it has one) and 
 | [Improved Signs](https://modrinth.com/mod/improved-signs) | 1.2.1 | 1 | &cross; |
 | [InfiniteVillagerTrading](https://modrinth.com/mod/infinitevillagertrading) |  0.68.1 | 0 | &cross; |
 | [Inventory Sorting](https://modrinth.com/mod/inventory-sorting) | 1.8.10 | 1 | &check; |
+| [Jade](https://modrinth.com/mod/jade) | 9.4.1 | 1 | &check; |
 | [JamLib](https://modrinth.com/mod/jamlib) | 0.6.0 | 1 | &check; |
 | [Lithium](https://modrinth.com/mod/lithium) | 0.11.1 | 1 | &check; |
 | [LuckPerms](https://luckperms.net/) | 5.4.66 | 0 | &check; |
