@@ -38,6 +38,6 @@ Client support is mostly taken from the mod's modrinth page (if it has one) and 
 
 Mods currently being considered:
 
-| mod | server | client | comments | 1.19.4 support |
-| --- | --- | --- | --- | --- |
-| [Slumber](https://modrinth.com/mod/slumber) | 2 | 0 | | &check; |
+| mod | client | comments | 1.19.4 support |
+| --- | --- | --- | --- |
+| [Slumber](https://modrinth.com/mod/slumber) | 0 | | &check; |
