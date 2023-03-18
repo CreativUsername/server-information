@@ -2,6 +2,19 @@ The config options that have been changed or added. I tried to include all of th
 
 If you want to know what a config does, look through the documentation of the mod that adds it.
 
+## ../world/carpet.conf
+
+| config | default | changed |
+| --- | --- | --- |
+| `stackableShulkerBoxes` | `false` | `true` |
+| `portalSurvivalDelay` | `80` | `10` |
+| `xpNoCooldown` | `false` | `true` |
+| `missingTools` | `false` | `true` |
+| `optimizedTNT` | `false` | `true` |
+| `lagFreeSpawning` | `false` | `true` |
+| `accurateBlockPlacement` | `false` | `true` |
+| `movableBlockEntities` | `false` | `true` |
+
 ## /commandaliases/
 
 ### banme.yaml
