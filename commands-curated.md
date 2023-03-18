@@ -24,8 +24,6 @@
 | --- | --- |
 | `/killme` | Kills the person who ran the command. |
 | `/kickme` | Kicks the person who ran the command. |
-| `/muteme` | Mutes the person who ran the command for 1 hour. |
-| `/banme` | Bans the person who ran the command for 1 hour. |
 
 ## Performance
 
