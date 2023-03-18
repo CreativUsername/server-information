@@ -34,9 +34,6 @@ Asterisks can be replaced by anything. For example, `essentialcommands.home.*` i
 
 ### false
 
-- `banhammer`
-- `banhammer.*`
-- `banme`
 - `commandaliases`
 - `commandaliases.*`
 - `dynmap.hide`
@@ -69,16 +66,12 @@ Asterisks can be replaced by anything. For example, `essentialcommands.home.*` i
 - `geyser.*`
 - `luckperms`
 - `luckperms.*`
-- `muteme`
 - `tabtps`
 
 ## user: `<server owner, redacted for github>`
 
 ### true
 
-- `banhammer`
-- `banhammer.*`
-- `banme`
 - `commandaliases`
 - `commandaliases.*`
 - `dynmap`
@@ -102,6 +95,5 @@ Asterisks can be replaced by anything. For example, `essentialcommands.home.*` i
 - `luckperms.*`
 - `group.default`
 - `meta.lp-editor-key.<redacted>`
-- `muteme`
 - `tabtps`
 - `tabtps.*`
