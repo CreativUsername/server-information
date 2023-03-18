@@ -17,17 +17,6 @@ If you want to know what a config does, look through the documentation of the mo
 
 ## /commandaliases/
 
-### banme.yaml
-
-```
-schemaVersion: 1
-commandMode: COMMAND_CUSTOM
-command: banme
-actions:
-  - command: 'tempban $executor_name() 1h You banned yourself!'
-    commandType: SERVER
-```
-
 ### kickme.yaml
 
 ```
@@ -47,17 +36,6 @@ commandMode: COMMAND_CUSTOM
 command: killme
 actions:
   - command: 'kill $executor_name()'
-    commandType: SERVER
-```
-
-### muteme.yaml
-
-```
-schemaVersion: 1
-commandMode: COMMAND_CUSTOM
-command: muteme
-actions:
-  - command: 'tempmute $executor_name() 1h You muted yourself!'
     commandType: SERVER
 ```
 
