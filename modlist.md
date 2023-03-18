@@ -21,7 +21,6 @@ Server/client support is mostly taken from the mod's modrinth page (if it has on
 | [Essential Commands](https://modrinth.com/mod/essential-commands) | 0.31.1 | 2 | 1 | &cross; |
 | [Fabric API](https://modrinth.com/mod/fabric-api) | 0.73.2 | 1 | 1 | &check; |
 | [Fabric Language Kotlin](https://modrinth.com/mod/fabric-language-kotlin/) | 1.9.1 + Kotlin 1.8.10 | 1 | 1 | &check; |
-| [Fast Portals](https://modrinth.com/mod/fast-portals) | 1.0.1 | 2 | 0 | &cross; |
 | [Floodgate](https://github.com/GeyserMC/Floodgate-Fabric) | Build #92 (?) | ? | ? | &check; |
 | [Geyser](https://geysermc.org/) | Build #1305 (?) | ? | ? | &check; |
 | [Grind Enchantments](https://modrinth.com/mod/grind-enchantments) |  3.0.0 Beta 1 | 2 | 1 | &cross; |
