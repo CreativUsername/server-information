@@ -16,7 +16,7 @@ Client support is mostly taken from the mod's modrinth page (if it has one) and 
 | [Command Aliases](https://modrinth.com/mod/commandaliases) | 1.0.0 | 1 | &cross; |
 | [Couplings](https://modrinth.com/mod/couplings) | 1.9.2 | 1 | &cross; |
 | [Day Dream](https://modrinth.com/mod/day-dream) | 1.0.6 | 0 | &cross; |
-| [Dynmap](https://www.curseforge.com/minecraft/mc-mods/dynmapforge) | 3.5 Beta 2 | 0 | &cross; |
+| [Dynmap](https://www.curseforge.com/minecraft/mc-mods/dynmapforge) | 3.5 Beta 2 | 0 | &check; |
 | [Essential Commands](https://modrinth.com/mod/essential-commands) | 0.32.0 | 1 | &check; |
 | [Fabric API](https://modrinth.com/mod/fabric-api) | 0.76.0 | 1 | &check; |
 | [Fabric Language Kotlin](https://modrinth.com/mod/fabric-language-kotlin/) | 1.9.2 + Kotlin 1.8.10 | 1 | &check; |
