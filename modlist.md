@@ -86,15 +86,15 @@ Pistons can move block entites, such as chests and hoppers. **(untested)** <br>
 [Carpet and Carpet Extra server configs](configs.md#worldcarpetconf) <br>
 [Carpet Extra currently available settings (wiki)](https://github.com/gnembon/carpet-extra)
 
-Allows alternative block placement from clients.
+Allows alternative block placement from clients. **(untested)**
 
 ### Cloth Config API
 
-Library mod, dependency for Day Dream
+Library mod, dependency for Day Dream.
 
 ### Collective
 
-Library mod, dependency for Anvil Restoration
+Library mod, dependency for Anvil Restoration.
 
 ### Command Aliases
 
@@ -178,15 +178,15 @@ Used for managing permissions.
 
 ### New Infinity Fix
 
-Removed the need to have an arrow in your inventory to use a bow enchanted with infinity.
+Removed the need to have an arrow in your inventory to use a bow enchanted with infinity. **(untested)**
 
 ### No Shield Delay
 
-Removes the delay between putting up your shield and being protected from damage.
+Removes the delay between putting up your shield and being protected from damage. **(untested)**
 
 ### Perfect Accuracy
 
-Removes random inaccuracy from projectiles shot/thrown by players.
+Removes random inaccuracy from projectiles shot/thrown by players. **(untested)**
 
 ### Phosphor
 
