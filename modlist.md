@@ -32,7 +32,7 @@ Client support may not be completely accurate in regards to the server.
 | [JamLib](https://modrinth.com/mod/jamlib) | 0.6.0 | 0 | &check; |
 | [Lithium](https://modrinth.com/mod/lithium) | 0.11.1 | 1 | &check; |
 | [LuckPerms](https://luckperms.net/) | 5.4.66 | 0 | &check; |
-| [New Infinity Fix](https://modrinth.com/mod/new-infinity-fix) | 1.0.1 | 0 | &cross; |
+| [New Infinity Fix](https://modrinth.com/mod/new-infinity-fix) | 1.0.1 | 0 | &check; |
 | [No Shield Delay](https://modrinth.com/mod/no-shield-delay) | 1.0.0 | 0 | &check; |
 | [Perfect Accuracy](https://modrinth.com/mod/perfect-accuracy) | 1.2 | 0 | &check; |
 | [Phosphor](https://modrinth.com/mod/phosphor) | 0.8.1 | 1 | &cross; |
