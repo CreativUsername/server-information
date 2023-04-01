@@ -35,7 +35,7 @@ Client support may not be completely accurate in regards to the server.
 | [New Infinity Fix](https://modrinth.com/mod/new-infinity-fix) | 1.0.1 | 0 | &check; |
 | [No Shield Delay](https://modrinth.com/mod/no-shield-delay) | 1.0.0 | 0 | &check; |
 | [Perfect Accuracy](https://modrinth.com/mod/perfect-accuracy) | 1.2 | 0 | &check; |
-| [Phosphor](https://modrinth.com/mod/phosphor) | 0.8.1 | 1 | &cross; |
+| [Phosphor](https://modrinth.com/mod/phosphor) | 0.8.1 | 1 | &check; |
 | [RightClickHarvest](https://modrinth.com/mod/rightclickharvest) | 3.1.0 | 0 | &check; |
 | [TabTPS](https://modrinth.com/plugin/tabtps) | 1.3.16 | 0 | &cross; |
 
