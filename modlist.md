@@ -26,7 +26,7 @@ Client support may not be completely accurate in regards to the server.
 | [Geyser](https://geysermc.org/) | Build #1321 | 0 | &check; |
 | [Grind Enchantments](https://modrinth.com/mod/grind-enchantments) |  3.0.0 Beta 1 | 1 | &cross; |
 | [Improved Signs](https://modrinth.com/mod/improved-signs) | 1.2.1 | 0 | &cross; |
-| [InfiniteVillagerTrading](https://modrinth.com/mod/infinitevillagertrading) |  0.68.1 | 0 | &cross; |
+| [InfiniteVillagerTrading](https://modrinth.com/mod/infinitevillagertrading) |  0.68.1 | 0 | &check; |
 | [Inventory Sorting](https://modrinth.com/mod/inventory-sorting) | 1.8.10 | 1 | &check; |
 | [Jade](https://modrinth.com/mod/jade) | 9.4.1 | 1 | &check; |
 | [JamLib](https://modrinth.com/mod/jamlib) | 0.6.0 | 0 | &check; |
