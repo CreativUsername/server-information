@@ -5,45 +5,44 @@ Client support may not be completely accurate in regards to the server.
 
 0 = unsupported/unnecessary, 1 = optional, but recommended, ? = unknown
 
-| mod | version | client | 1.19.4 support |
-| --- | --- | --- | --- |
-| [AntiXray](https://modrinth.com/mod/anti-xray) | 1.3.0 | 0 | &check; |
-| [Anvil Restoration](https://modrinth.com/mod/anvil-restoration) | 2.0 | 0 | &check; |
-| [Better Than Mending](https://modrinth.com/mod/better-than-mending) | 1.3.0 | 0 | &check; |
-| [Bypass Anvil Restriction](https://www.curseforge.com/minecraft/mc-mods/bypass-anvil-restriction) | 1.0.2 | 1 | &check; |
-| [Carpet](https://modrinth.com/mod/carpet) | 1.4.96 | 1 | &check; |
-| [Carpet Extra](https://github.com/gnembon/carpet-extra) | 1.4.91 | 0 | &check; |
-| [Cloth Config API](https://modrinth.com/mod/cloth-config/) | 9.0.94 | 0 | &check; |
-| [Collective](https://modrinth.com/mod/collective) | 6.53 | 0 | &check; |
-| [Command Aliases](https://modrinth.com/mod/commandaliases) | 1.0.0 | 0 | &check; |
-| [Couplings](https://modrinth.com/mod/couplings) | 1.9.2 | 1 | &cross; |
-| [Day Dream](https://modrinth.com/mod/day-dream) | 1.0.6 | 0 | &check; |
-| [Dynmap](https://www.curseforge.com/minecraft/mc-mods/dynmapforge) | 3.5 Beta 2 | 0 | &check; |
-| [Essential Commands](https://modrinth.com/mod/essential-commands) | 0.32.0 | 0 | &check; |
-| [Fabric API](https://modrinth.com/mod/fabric-api) | 0.76.0 | 1 | &check; |
-| [Fabric Language Kotlin](https://modrinth.com/mod/fabric-language-kotlin/) | 1.9.2 + Kotlin 1.8.10 | 1 | &check; |
-| [Floodgate](https://github.com/GeyserMC/Floodgate-Fabric) | Build #93 | 0 | &check; |
-| [Geyser](https://geysermc.org/) | Build #1321 | 0 | &check; |
-| [Grind Enchantments](https://modrinth.com/mod/grind-enchantments) |  3.0.0 Beta 1 | 1 | &check; |
-| [Improved Signs](https://modrinth.com/mod/improved-signs) | 1.2.1 | 0 | &check; |
-| [InfiniteVillagerTrading](https://modrinth.com/mod/infinitevillagertrading) |  0.68.1 | 0 | &check; |
-| [Inventory Sorting](https://modrinth.com/mod/inventory-sorting) | 1.8.10 | 1 | &check; |
-| [Jade](https://modrinth.com/mod/jade) | 9.4.1 | 1 | &check; |
-| [JamLib](https://modrinth.com/mod/jamlib) | 0.6.0 | 0 | &check; |
-| [Lithium](https://modrinth.com/mod/lithium) | 0.11.1 | 1 | &check; |
-| [LuckPerms](https://luckperms.net/) | 5.4.66 | 0 | &check; |
-| [New Infinity Fix](https://modrinth.com/mod/new-infinity-fix) | 1.0.1 | 0 | &check; |
-| [No Shield Delay](https://modrinth.com/mod/no-shield-delay) | 1.0.0 | 0 | &check; |
-| [Perfect Accuracy](https://modrinth.com/mod/perfect-accuracy) | 1.2 | 0 | &check; |
-| [Phosphor](https://modrinth.com/mod/phosphor) | 0.8.1 | 1 | &check; |
-| [RightClickHarvest](https://modrinth.com/mod/rightclickharvest) | 3.1.0 | 0 | &check; |
-| [TabTPS](https://modrinth.com/plugin/tabtps) | 1.3.16 | 0 | &check; |
+| mod | version | client |
+| --- | --- | --- |
+| [AntiXray](https://modrinth.com/mod/anti-xray) | 1.3.0 | 0 |
+| [Anvil Restoration](https://modrinth.com/mod/anvil-restoration) | 2.0 | 0 |
+| [Better Than Mending](https://modrinth.com/mod/better-than-mending) | 1.3.0 | 0 |
+| [Bypass Anvil Restriction](https://www.curseforge.com/minecraft/mc-mods/bypass-anvil-restriction) | 1.0.4 | 1 |
+| [Carpet](https://modrinth.com/mod/carpet) | 1.4.101 | 1 |
+| [Carpet Extra](https://github.com/gnembon/carpet-extra) | 1.4.100 | 0 |
+| [Cloth Config API](https://modrinth.com/mod/cloth-config/) | 10.0.96 | 0 |
+| [Collective](https://modrinth.com/mod/collective) | 6.54 | 0 |
+| [Command Aliases](https://modrinth.com/mod/commandaliases) | 1.0.1 | 0 |
+| [Day Dream](https://modrinth.com/mod/day-dream) | 1.0.7 | 0 |
+| [Double Doors](https://modrinth.com/mod/double-doors) | 4.5 | 1 |
+| [Dynmap](https://www.curseforge.com/minecraft/mc-mods/dynmapforge) | 3.5 | 0 |
+| [Essential Commands](https://modrinth.com/mod/essential-commands) | 0.33.0 | 0 |
+| [Fabric API](https://modrinth.com/mod/fabric-api) | 0.80.0 | 1 |
+| [Fabric Language Kotlin](https://modrinth.com/mod/fabric-language-kotlin/) | 1.9.4 + Kotlin 1.8.21 | 1 |
+| [Floodgate](https://github.com/GeyserMC/Floodgate-Fabric) | Build \#98 | 0 |
+| [Geyser](https://geysermc.org/) | Build #142 | 0 |
+| [Grind Enchantments](https://modrinth.com/mod/grind-enchantments) | 3.0.0 | 1 |
+| [Improved Signs](https://modrinth.com/mod/improved-signs) | 1.2.1 | 0 |
+| [InfiniteVillagerTrading](https://modrinth.com/mod/infinitevillagertrading) |  0.68.1 | 0 |
+| [Inventory Sorting](https://modrinth.com/mod/inventory-sorting) | 1.8.10 | 1 |
+| [Jade](https://modrinth.com/mod/jade) | 10.3.0 | 1 |
+| [JamLib](https://modrinth.com/mod/jamlib) | 0.6.0 | 0 |
+| [Lithium](https://modrinth.com/mod/lithium) | 0.11.1 | 1 |
+| [LuckPerms](https://luckperms.net/) | 5.4.79 | 0 |
+| [No Shield Delay](https://modrinth.com/mod/no-shield-delay) | 1.0.0 | 0 |
+| [Perfect Accuracy](https://modrinth.com/mod/perfect-accuracy) | 1.2 | 0 |
+| [Phosphor](https://modrinth.com/mod/phosphor) | 0.8.1 | 1 |
+| [RightClickHarvest](https://modrinth.com/mod/rightclickharvest) | 3.2.0 | 0 |
+| [TabTPS](https://modrinth.com/plugin/tabtps) | 1.3.17 | 0 |
 
 Mods currently being considered:
 
-| mod | client | comments | 1.19.4 support |
-| --- | --- | --- | --- |
-| [Slumber](https://modrinth.com/mod/slumber) | 0 | | &check; |
+| mod | client | comments |
+| --- | --- | --- |
+| [Slumber](https://modrinth.com/mod/slumber) | 0 | |
 
 ## Changes made by mods
 
@@ -102,15 +101,13 @@ Library mod, dependency for Anvil Restoration.
 
 Allows making custom commands. Currently used for `/kickme`, `/killme`, and `/nick`.
 
-### Couplings
-
-Opposing doors/trapdoors and vertically stacked fence gates open together when used by a player or powered by a redstone signal strength >7. <br>
-They will not open together when the signal strength is <8. <br>
-**(Redstone untested)**
-
 ### Day Dream
 
 Sleeping during the day will make it nighttime.
+
+### Double Doors
+
+Doors, trapdoors, and fence gates now open together when they are next to each other.
 
 ### Dynmap
 
@@ -175,10 +172,6 @@ Optimizes many aspects of Minecraft Java Edition.
 ### LuckPerms
 
 Used for managing permissions.
-
-### New Infinity Fix
-
-Removed the need to have an arrow in your inventory to use a bow enchanted with infinity. **(untested)**
 
 ### No Shield Delay
 
