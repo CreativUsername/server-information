@@ -15,17 +15,17 @@ Client support may not be completely accurate in regards to the server.
 | [Carpet Extra](https://github.com/gnembon/carpet-extra) | 1.4.91 | 0 | &check; |
 | [Cloth Config API](https://modrinth.com/mod/cloth-config/) | 9.0.94 | 0 | &check; |
 | [Collective](https://modrinth.com/mod/collective) | 6.53 | 0 | &check; |
-| [Command Aliases](https://modrinth.com/mod/commandaliases) | 1.0.0 | 0 | &cross; |
+| [Command Aliases](https://modrinth.com/mod/commandaliases) | 1.0.0 | 0 | &check; |
 | [Couplings](https://modrinth.com/mod/couplings) | 1.9.2 | 1 | &cross; |
-| [Day Dream](https://modrinth.com/mod/day-dream) | 1.0.6 | 0 | &cross; |
+| [Day Dream](https://modrinth.com/mod/day-dream) | 1.0.6 | 0 | &check; |
 | [Dynmap](https://www.curseforge.com/minecraft/mc-mods/dynmapforge) | 3.5 Beta 2 | 0 | &check; |
 | [Essential Commands](https://modrinth.com/mod/essential-commands) | 0.32.0 | 0 | &check; |
 | [Fabric API](https://modrinth.com/mod/fabric-api) | 0.76.0 | 1 | &check; |
 | [Fabric Language Kotlin](https://modrinth.com/mod/fabric-language-kotlin/) | 1.9.2 + Kotlin 1.8.10 | 1 | &check; |
 | [Floodgate](https://github.com/GeyserMC/Floodgate-Fabric) | Build #93 | 0 | &check; |
 | [Geyser](https://geysermc.org/) | Build #1321 | 0 | &check; |
-| [Grind Enchantments](https://modrinth.com/mod/grind-enchantments) |  3.0.0 Beta 1 | 1 | &cross; |
-| [Improved Signs](https://modrinth.com/mod/improved-signs) | 1.2.1 | 0 | &cross; |
+| [Grind Enchantments](https://modrinth.com/mod/grind-enchantments) |  3.0.0 Beta 1 | 1 | &check; |
+| [Improved Signs](https://modrinth.com/mod/improved-signs) | 1.2.1 | 0 | &check; |
 | [InfiniteVillagerTrading](https://modrinth.com/mod/infinitevillagertrading) |  0.68.1 | 0 | &check; |
 | [Inventory Sorting](https://modrinth.com/mod/inventory-sorting) | 1.8.10 | 1 | &check; |
 | [Jade](https://modrinth.com/mod/jade) | 9.4.1 | 1 | &check; |
@@ -37,7 +37,7 @@ Client support may not be completely accurate in regards to the server.
 | [Perfect Accuracy](https://modrinth.com/mod/perfect-accuracy) | 1.2 | 0 | &check; |
 | [Phosphor](https://modrinth.com/mod/phosphor) | 0.8.1 | 1 | &check; |
 | [RightClickHarvest](https://modrinth.com/mod/rightclickharvest) | 3.1.0 | 0 | &check; |
-| [TabTPS](https://modrinth.com/plugin/tabtps) | 1.3.16 | 0 | &cross; |
+| [TabTPS](https://modrinth.com/plugin/tabtps) | 1.3.16 | 0 | &check; |
 
 Mods currently being considered:
 
